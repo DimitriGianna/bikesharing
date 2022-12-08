@@ -3,6 +3,7 @@
 ## Overview
 The purpose of this analysis was to examine data from a bike sharing company in New York to create a data visualization story using Tableau to present to investors in Des Moines about installing a similar service there. 
 
+[link to dashboard](https://public.tableau.com/app/profile/dimitri.giannakopoulos/viz/CheckoutTimesforUsers_16704683350340/CheckoutTimesforUsers?publish=yes)
 
 ### Checkout Times for All Users
 ![image](https://user-images.githubusercontent.com/112590378/206357905-71213f60-7f86-4bd2-adc4-6ae0ae73d347.png)
